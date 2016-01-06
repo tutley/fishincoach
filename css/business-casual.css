@@ -41,6 +41,11 @@ hr {
     display: none;
 }
 
+.fb-like {
+    float: right;
+
+}
+
 .navbar-brand {
     text-transform: uppercase;
     font-weight: 900;
